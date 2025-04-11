@@ -1,1 +1,1 @@
-# NIfty50Prediction
+# Nifty50Prediction
